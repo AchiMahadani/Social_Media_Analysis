@@ -9,7 +9,8 @@ This repository contains an interactive **Social Media Analytics Dashboard** cre
 - Monthly trendline visualizations (January to December)
 - Platform-wise followers comparison
 - Engagement breakdown by **Content Type** (Text, Image, Video, Carousel)
-  ![overview ss](https://github.com/user-attachments/assets/b70600d4-f194-496d-a055-2b9a156314c2)
+
+![overview ss](https://github.com/user-attachments/assets/b70600d4-f194-496d-a055-2b9a156314c2)
 
 
 ### 📘 Facebook Tab
